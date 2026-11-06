@@ -24,6 +24,7 @@ Computer Science student at IFSul. I care about clean, tested and well-documente
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Table to CSV**](https://github.com/PabloTosati/table-to-csv-extension) | Chrome extension that exports any table on a web page to CSV or copies it to Excel, with merged-cell support and minimal permissions | JavaScript, Chrome Manifest V3, Node test runner |
+| [**Margem Certa**](https://github.com/PabloTosati/margem-certa-extension) | Chrome extension that shows the real profit of Mercado Livre and Shopee listings after fees, and the minimum price for a target margin | JavaScript, Chrome Manifest V3, Node test runner |
 | [**Grid Motors API**](https://github.com/PabloTosati/motors-api) | Car rental REST API: JWT auth, reservations with overlap rules, ViaCEP integration, Swagger docs, 153 tests | TypeScript, Express 5, PostgreSQL, Knex, Docker |
 | [**Movie Collection API**](https://github.com/PabloTosati/movie-api) | Movies and directors REST API with filters, business rules and end-to-end tests | TypeScript, Express, SQLite, Jest, Docker |
 
