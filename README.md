@@ -25,6 +25,7 @@ Computer Science student at IFSul. I care about clean, tested and well-documente
 | --- | --- | --- |
 | [**Table to CSV**](https://github.com/PabloTosati/table-to-csv-extension) | Chrome extension that exports any table on a web page to CSV or copies it to Excel, with merged-cell support and minimal permissions | JavaScript, Chrome Manifest V3, Node test runner |
 | [**Margem Certa**](https://github.com/PabloTosati/margem-certa-extension) | Chrome extension that shows the real profit of Mercado Livre and Shopee listings after fees, and the minimum price for a target margin | JavaScript, Chrome Manifest V3, Node test runner |
+| [**Orb Runner**](https://github.com/PabloTosati/godot-csharp-orb-runner) | 2D arcade game in Godot 4: physics, signals, HUD, saved best score, and a guide to common Godot C# bugs and their fixes. 24 tests run inside Godot | C#, Godot 4, .NET 8 |
 | [**Grid Motors API**](https://github.com/PabloTosati/motors-api) | Car rental REST API: JWT auth, reservations with overlap rules, ViaCEP integration, Swagger docs, 153 tests | TypeScript, Express 5, PostgreSQL, Knex, Docker |
 | [**Movie Collection API**](https://github.com/PabloTosati/movie-api) | Movies and directors REST API with filters, business rules and end-to-end tests | TypeScript, Express, SQLite, Jest, Docker |
 
